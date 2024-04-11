@@ -27,7 +27,7 @@ int main()
     }
     sf::Sprite RedPieceS(PieceredText);
  /*   RedPieceS.setPosition(boardS.getGlobalBounds().width / 2.343, boardS.getGlobalBounds().height / 1.145);*/
-    RedPieceS.setPosition(irx2,iry2);
+ //   RedPieceS.setPosition(irx2,iry2);
    RedPieceS.setScale(0.8, 0.8);
     // Game loop
     int rollCount = 0;
